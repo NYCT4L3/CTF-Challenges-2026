@@ -30,7 +30,7 @@ Flags in the writeups are redacted as `CTF{...}`; the answer is built from the v
 
 ## License and reuse
 
-Copyright (c) 2026 Shadow. Licensed under [CC BY-NC-ND 4.0](LICENSE).
+Copyright (c) 2026 NYCT4L3. Licensed under [CC BY-NC-ND 4.0](LICENSE).
 
 You are welcome to solve, study and share these challenges and writeups, with credit and a link back. You may not use them commercially, and you may not share modified versions.
 
