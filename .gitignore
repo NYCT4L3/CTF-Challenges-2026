@@ -1,0 +1,12 @@
+# Organizer-only material: never commit
+author-only/
+private/
+flags.txt
+*.secret
+.env
+
+# Python / OS noise
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
